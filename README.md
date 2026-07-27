@@ -1,2 +1,2 @@
 # Science-Made-Easy
-The Science MAde Easy is a website use to help studenyts havong difficulties in Science subjects(STEM) making this more easier and  clear. 
+The Science Made Easy is a website use to help students having difficulties in Science subjects(STEM) making this more easier and  clear. 
